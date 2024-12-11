@@ -8,7 +8,7 @@ Este proyecto es un frontend de un **layout de carrito de compras web** desarrol
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/juandimarcano/CarritoTs
    ```
 
 2. Navega al directorio del proyecto:
